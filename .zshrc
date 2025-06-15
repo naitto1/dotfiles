@@ -108,7 +108,5 @@ alias nvcon="nvim ~/.config/nvim/init.lua"
 alias skch="nvim ~/Coding/SkillCheck"
 xset r rate 200 60
 alias vim='nvim'
-alias cdwm='nvim ~/.config/suckless/dwm/config.h'
-alias mdwm='cd ~/.config/suckless/dwm; sudo make clean install; cd -'
-
+alias chi3='nvim ~/.config/i3/config'
 
